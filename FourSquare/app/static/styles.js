@@ -41,8 +41,7 @@ export const Theme = {
   },
   Avatar: {
     overlayContainerStyle: {},
-    ImageComponent: FastImage;
-
+    ImageComponent: FastImage
   },
   Icon: {
     iconStyle: {}
